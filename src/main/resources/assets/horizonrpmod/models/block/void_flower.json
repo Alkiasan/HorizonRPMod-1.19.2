@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "horizonrpmod:blocks/voidflower",
+    "particle": "horizonrpmod:blocks/voidflower"
+  }
+}

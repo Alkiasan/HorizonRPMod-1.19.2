@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "horizonrpmod:items/0110100001100101011011000110110001101111_disc_mb"
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "cardinalbox": {
+    "category": "record",
+    "subtitle": "subtitles.cardinalbox",
+    "sounds": [
+      {
+        "name": "horizonrpmod:lockedlibrarymusicbox",
+        "stream": true
+      }
+    ]
+  },
+  "crimsonbox": {
+    "category": "record",
+    "subtitle": "subtitles.crimsonbox",
+    "sounds": [
+      {
+        "name": "horizonrpmod:music_box",
+        "stream": true
+      }
+    ]
+  },
+  "leftbehind": {
+    "category": "record",
+    "subtitle": "subtitles.crimsonbox",
+    "sounds": [
+      {
+        "name": "horizonrpmod:leftbehind",
+        "stream": true
+      }
+    ]
+  },
+  "treesmelody": {
+    "category": "record",
+    "subtitle": "subtitles.treesmelody",
+    "sounds": [
+      {
+        "name": "horizonrpmod:treesmelody",
+        "stream": true
+      }
+    ]
+  },
+  "mothersmelody": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "horizonrpmod:mothermelodyv2",
+        "stream": true
+      }
+    ]
+  },
+  "crimson": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "horizonrpmod:crimson",
+        "stream": true
+      }
+    ]
+  },
+  "library": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "horizonrpmod:library",
+        "stream": true
+      }
+    ]
+  },
+  "scarlet": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "horizonrpmod:scarlet",
+        "stream": true
+      }
+    ]
+  },
+  "scarlet2": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "horizonrpmod:septette_for_the_dead_princess_-_remilia_scarlets_theme_orchestral_version_1",
+        "stream": true
+      }
+    ]
+  },
+  "scarletmusicbox": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "horizonrpmod:septet_for_the_dead_princess_touhou_koumakyou___the_embodiment_of_scarlet_devil._music_box",
+        "stream": true
+      }
+    ]
+  },
+  "fragmentoffairytale": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "horizonrpmod:keyword_-_fragment_of_the_fairytale",
+        "stream": true
+      }
+    ]
+  },
+  "adaigo": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "horizonrpmod:adaigo",
+        "stream": true
+      }
+    ]
+  },
+  "thornyandscattered": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "horizonrpmod:thornyandscattered",
+        "stream": true
+      }
+    ]
+  },
+  "warriorofthelost": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "horizonrpmod:warriorofthelost",
+        "stream": true
+      }
+    ]
+  },
+  "abandonedblade": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "horizonrpmod:abandonedblade",
+        "stream": true
+      }
+    ]
+  },
+  "princeoffate": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "horizonrpmod:chimera_-_prince_of_fate",
+        "stream": true
+      }
+    ]
+  },
+  "tyingstrings": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "horizonrpmod:chimera_-_tying_the_string",
+        "stream": true
+      }
+    ]
+  },
+  "deniedprophecy": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "horizonrpmod:the_one_who_denied_the_prophecy",
+        "stream": true
+      }
+    ]
+  },
+  "thirtyminutes": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "horizonrpmod:crimson-_the_final_30_minutes",
+        "stream": true
+      }
+    ]
+  },
+  "ladyofprophecy": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "horizonrpmod:chimera_-_lady_of_prophecy",
+        "stream": true
+      }
+    ]
+  },
+  "whatwebecame": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "horizonrpmod:chimera_-_what_we_became",
+        "stream": true
+      }
+    ]
+  },
+  "festival": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "horizonrpmod:festival",
+        "stream": true
+      }
+    ]
+  },
+  "waves": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "horizonrpmod:witheringwaves",
+        "stream": true
+      }
+    ]
+  },
+  "flow": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "horizonrpmod:eternalflow",
+        "stream": true
+      }
+    ]
+  },
+  "realityforplant": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "horizonrpmod:reality_for_the_plant_child",
+        "stream": true
+      }
+    ]
+  }
+}

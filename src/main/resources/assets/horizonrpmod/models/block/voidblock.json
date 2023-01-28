@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "horizonrpmod:blocks/animatedvoid",
+    "up": "horizonrpmod:blocks/animatedvoid",
+    "north": "horizonrpmod:blocks/animatedvoid",
+    "east": "horizonrpmod:blocks/animatedvoid",
+    "south": "horizonrpmod:blocks/animatedvoid",
+    "west": "horizonrpmod:blocks/animatedvoid",
+    "particle": "horizonrpmod:blocks/animatedvoid"
+  }
+}

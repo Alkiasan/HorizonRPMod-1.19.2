@@ -1,0 +1,39 @@
+{
+	"schema_version": 1,
+	"quilt_loader": {
+		"group": "com.alkia.horizonrpmod",
+		"id": "horizonrpmod",
+		"version": "${version}",
+		"metadata": {
+			"name": "Horizon RP Mod",
+			"description": "Completely rewritten for Quilt support!.",
+			"contributors": {
+				"Your name here": "Alkia"
+			},
+			"contact": {
+				"homepage": "https://www.ko-fi.com/alkia",
+				"issues": "https://www.ko-fi.com/alkia",
+				"sources": "https://www.ko-fi.com/alkia"
+			},
+			"icon": "assets/horizonrpmod/icon.png"
+		},
+		"intermediate_mappings": "net.fabricmc:intermediary",
+		"entrypoints": {
+			"init": "com.alkia.horizonrpmod.HorizonRPMod"
+		},
+		"depends": [
+			{
+				"id": "quilt_loader",
+				"versions": ">=0.17.0-"
+			},
+			{
+				"id": "quilted_fabric_api",
+				"versions": ">=4.0.0-"
+			},
+			{
+				"id": "minecraft",
+				"versions": ">=1.19.2"
+			}
+		]
+	}
+}

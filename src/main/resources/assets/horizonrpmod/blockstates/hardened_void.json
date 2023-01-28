@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "horizonrpmod:block/hardened_void"
+    }
+  }
+}

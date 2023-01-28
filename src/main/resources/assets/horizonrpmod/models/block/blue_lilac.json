@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "horizonrpmod:blocks/bluelilac_top",
+    "particle": "horizonrpmod:blocks/bluelilac_top"
+  }
+}

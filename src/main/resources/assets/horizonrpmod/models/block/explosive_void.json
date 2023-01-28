@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "horizonrpmod:blocks/explosivevoid",
+    "up": "horizonrpmod:blocks/explosivevoid",
+    "north": "horizonrpmod:blocks/explosivevoid",
+    "east": "horizonrpmod:blocks/explosivevoid",
+    "south": "horizonrpmod:blocks/explosivevoid",
+    "west": "horizonrpmod:blocks/explosivevoid",
+    "particle": "horizonrpmod:blocks/explosivevoid"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "horizonrpmod:blocks/plant_core_c",
+    "up": "horizonrpmod:blocks/plant_core_c",
+    "north": "horizonrpmod:blocks/plant_core_c",
+    "east": "horizonrpmod:blocks/plant_core_c",
+    "south": "horizonrpmod:blocks/plant_core_c",
+    "west": "horizonrpmod:blocks/plant_core_c",
+    "particle": "horizonrpmod:blocks/plant_core_c"
+  }
+}
